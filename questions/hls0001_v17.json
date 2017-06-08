@@ -1,0 +1,141 @@
+{
+    "name": "Psykosomatikk og helsepsykologi",
+    "code": "HLS0001",
+    "exam": "V17",
+    "questions": [
+        {
+            "question": "I 2000 kom forente nasjoners",
+            "answers": [
+                "Sustainable goals",
+                "Development goals",
+                "Health promotional goals",
+                "Universal primary educational goals"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I mai 2013 vedtok Verdens helseorganisasjon ´Global action plan for the prevention and control of NCDs 2013-202´. Hva er NCD?",
+            "answers": [
+                "Ikke smittsomme sykdommer",
+                "Non Curable Diseases",
+                "Livsstilssykdommer",
+                "Universal primary educational goals"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "En verdenskjent epidemiolog ble Æresdoktor ved NTNU i 2016. Hvem var det?",
+            "answers": [
+                "Ottoline Lleyser",
+                "Don Byrne",
+                "Michael Marmot",
+                "Robert Jackson"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Dahlgren of Whitehead publiserte i 1992=",
+            "answers": [
+                "En figur som viser hva som faciliterer helse",
+                "'Loven' om helsemessig bærekraft",
+                "Læren om helsefremmings facilitatorene",
+                "En figur som viser helsedeterminantene"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Hvordan måles BNQol?",
+            "answers": [
+                "Med BNQol skalaen",
+                "Rett og slett ved vanlig intervju",
+                "Ved bruk av vanlige hulmål",
+                "Universal primary educational goals"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Hvem skrev den berømte boken \"The Hitchikers guide to Salutogenesis\"?",
+            "answers": [
+                "Lindgren og Einarsson",
+                "Espnes og Smedslund",
+                "Lindström og Eriksson",
+                "Mittelmark et al."
+            ],
+            "correct": 0
+        },
+        
+        {
+            "question": "Hvem var redaktør for \"HAndbook of Salutogenesis\"?",
+            "answers": [
+                "Lindgren og Einarsson",
+                "Espnes og Smedslund",
+                "Lindström og Eriksson",
+                "Mittelmark et al."
+            ],
+            "correct": 0
+        },
+
+        {
+            "question": "I 1980 definerte helsepsykologen Matarazzo helse psykologi som:",
+            "answers": [
+                "\"Læren om psykologiens innvirkning på helse\"",
+                "\"Psykologiens forhold til helse og utvikling av helseressurser\"",
+                "\"Det samlede bidrag psykologien gir for å forstå helse og velvære\"",
+                "\"Psykiske problemers innvirkning på helse\""
+            ],
+            "correct": 0
+        },
+
+        {
+            "question": "Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av:",
+            "answers": [
+                "Bio-medisinsk helsemodell",
+                "Bio-holistisk helsemodell",
+                "Bio-psyko-sosial helsemodell",
+                "Velværehelsemodellen"
+            ],
+            "correct": 0
+        },
+
+        {
+            "question": "Hva menes med begrepet reduksjonisme?",
+            "answers": [
+                "Reduksjonismen hevdet at \"sjelen\" ikke var noe annet enn nerveimpulser",
+                "Reduksjonismen hevdet at alle forhold kunne reduseres til en enkelt formel",
+                "Reduksjonismen sier at alt vi betrakter er mindre enn det ser ut til",
+                "At et menneskes helse kan beskrives ut fra det genetiske apparatet mennesket har"
+            ],
+            "correct": 0
+        },
+
+        {
+            "question": "Hva er en stress moderator?",
+            "answers": [
+                "Faktorer som påvirker retningen og styrken mellom stress og en annen variabel",
+                "",
+                "",
+                ""
+            ],
+            "correct": 0
+        },
+        
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
